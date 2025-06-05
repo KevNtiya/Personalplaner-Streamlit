@@ -1,0 +1,116 @@
+[
+  {
+    "Name": "Kevin Maier",
+    "Bereich": "X-Treme",
+    "Einweisungen": ["PX","NTR","WR1","WR2","TS"],
+    "Trainer": ["PX","NTR","WR1","WR2","TS"]
+  },
+  {
+    "Name": "Frieder Vogt",
+    "Bereich": "X-Treme",
+    "Einweisungen": ["PX","NTR","TS"],
+    "Trainer": ["PX","NTR","TS"]
+  },
+  {
+    "Name": "Beyza Ünaldi",
+    "Bereich": "X-Treme",
+    "Einweisungen": ["PX","NTR","WR1","WR2","TS"],
+    "Trainer":["PX","NTR","WR1","WR2","TS"]
+ },
+  {
+    "Name": "Iclal A.",
+    "Bereich": "X-Treme",
+    "Einweisungen": ["PX","NTR","WR1","WR2","TS"],
+    "Trainer": ["PX","NTR","WR1","WR2","TS"]
+  },
+  {
+    "Name": "Cassady Page",
+    "Bereich": "X-Treme",
+    "Einweisungen": ["PX","NTR","WR1","WR2","TS"],
+    "Trainer": []
+  },
+  {
+    "Name": "Lorenz A.",
+    "Bereich": "X-Treme",
+    "Einweisungen": ["PX"],
+    "Trainer": ["PX"]
+  },
+  {
+    "Name": "Ali A.",
+    "Bereich": "X-Treme",
+    "Einweisungen": ["NTR","WR1","WR2"],
+    "Trainer": []
+  },
+  {
+    "Name": "Christoph Welscher",
+    "Bereich": "X-Treme",
+    "Einweisungen": ["PX","NTR","WR1","WR2","TS"],
+    "Trainer": ["PX","NTR","WR1","WR2","TS"]
+  },
+ {
+  "Name": "Fabian K.",
+  "Bereich": "X-Treme",
+   "Einweisungen": ["PX","TS"],
+   "Trainer": ["PX","TS"]
+ },
+  {
+    "Name": "Yann-Luca A.",
+    "Bereich": "X-Treme",
+    "Einweisungen": ["PX","WR1","WR2","TS"],
+    "Trainer": []
+  },
+  {
+    "Name": "Lara A.",
+    "Bereich": "X-Treme",
+    "Einweisungen": ["PX","WR1","WR2"],
+    "Trainer": []
+  },
+  {
+    "Name": "Beispiel 1",
+    "Bereich": "X-Treme",
+    "Einweisungen": ["WR1","WR2","TS"],
+    "Trainer": []
+  },
+  {
+    "Name": "Beispiel 2",
+    "Bereich": "X-Treme",
+    "Einweisungen": [],
+    "Trainer": []
+  },
+  {
+    "Name": "Beispiel 3",
+    "Bereich": "X-Treme",
+    "Einweisungen": ["NTR"],
+    "Trainer": []
+  },
+  {
+    "Name": "Beispiel 4",
+    "Bereich": "X-Treme",
+    "Einweisungen": ["TS"],
+    "Trainer": []
+  },
+ {
+  "Name": "Beispiel 5",
+   "Bereich": "X-Treme",
+   "Einweisungen": ["WR1","WR2"],
+   "Trainer": []
+ },
+  {
+    "Name": "Beispiel 6",
+    "Bereich": "X-Treme",
+    "Einweisungen": ["NTR"],
+    "Trainer": []
+  },
+  {
+    "Name": "Beispiel 7",
+    "Bereich": "X-Treme",
+    "Einweisungen": [],
+    "Trainer": []
+  },
+  {
+    "Name": "Beispiel 8",
+    "Bereich": "X-Treme",
+    "Einweisungen": ["PX"],
+    "Trainer": []
+  }
+]
