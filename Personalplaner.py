@@ -1,4 +1,19 @@
 import streamlit as st
+
+def login():
+    st.title("🔐 Zugriff geschützt")
+    password = st.text_input("Bitte Passwort eingeben:", type="password")
+    if password == "attractions_2025":
+        return True
+    elif password:
+        st.error("Falsches Passwort")
+        return False
+    return False
+
+if not login():
+    st.stop()
+    
+import streamlit as st
 import json
 
 # ----- 🔧 JSON-Dateien einlesen -----
