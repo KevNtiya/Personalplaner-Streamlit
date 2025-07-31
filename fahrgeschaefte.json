@@ -1,0 +1,556 @@
+{
+  "fahrgeschaefte": [
+    {
+      "Name": "PX",
+      "Bereich": "X-Treme",
+      "Anzahl_Positionen": 4,
+      "Positionen": [
+        {
+        "Name": "Einlass",
+          "Einweisung_erforderlich": false
+        },
+        {
+          "Name": "Pult_1",
+          "Einweisung_erforderlich": true
+        },
+        {
+          "Name": "Pult_2",
+          "Einweisung_erforderlich": true
+        },
+        {
+          "Name": "CCTV",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "NTR",
+      "Bereich": "X-Treme",
+      "Anzahl_Positionen": 5,
+      "Positionen": [
+        {
+          "Name": "Einlass",
+          "Einweisung_erforderlich": false
+        },
+        {
+          "Name": "Läufer",
+          "Einweisung_erforderlich": true
+        },
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        },
+        {
+          "Name": "CCTV",
+          "Einweisung_erforderlich": true
+        },
+        {
+          "Name": "Brillen",
+          "Einweisung_erforderlich": false
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "WR1",
+      "Bereich": "X-Treme",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+          "Name": "WR2",
+      "Bereich": "X-Treme",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": true,
+      "Trainings_erlaubt": true
+    },
+    {
+          "Name": "TS",
+      "Bereich": "X-Treme",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Atlantis",
+      "Bereich": "Education",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": false
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Flughafen",
+      "Bereich": "City",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Hafenrundfahrt",
+      "Bereich": "City",
+      "Anzahl_Positionen": 2,
+      "Positionen": [
+        {
+          "Name": "Pult_1",
+          "Einweisung_erforderlich": true
+        },
+        {
+          "Name": "Pult_2",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Junior_Fahrschule",
+      "Bereich": "Education",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Fahrschule",
+      "Bereich": "Education",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Powerbuilder_1",
+      "Bereich": "City",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Powerbuilder_2",
+      "Bereich": "City",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": true,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Fabrik",
+      "Bereich": "City",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Einlass",
+          "Einweisung_erforderlich": false
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Legoland_Express",
+      "Bereich": "City",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Fahrer",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Flying_Ninjago",
+      "Bereich": "City",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Raupenritt",
+      "Bereich": "Ritter",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Ritterturnier_1",
+      "Bereich": "Ritter",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Ritterturnier_2",
+      "Bereich": "Ritter",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": true,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Feuerdrache",
+      "Bereich": "Ritter",
+      "Anzahl_Positionen": 4,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        },
+        {
+          "Name": "Läufer",
+          "Einweisung_erforderlich": true
+        },
+        {
+          "Name": "CCTV",
+          "Einweisung_erforderlich": true
+        },
+        {
+          "Name": "Einlass",
+          "Einweisung_erforderlich": false
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Drachenjagd",
+      "Bereich": "Ritter",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Tretomobil",
+      "Bereich": "Imag",
+      "Anzahl_Positionen": 2,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        },
+        {
+          "Name": "CCTV",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Aussichtsturm",
+      "Bereich": "Imag",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Labyrinth",
+      "Bereich": "Imag",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Einlass",
+          "Einweisung_erforderlich": false
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "KPT",
+      "Bereich": "Imag",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Duplo_Express",
+      "Bereich": "Imag",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Loopster",
+      "Bereich": "Abenteuer",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Piratenschlacht",
+      "Bereich": "Abenteuer",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Piratenschule",
+      "Bereich": "Abenteuer",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Safari",
+      "Bereich": "Abenteuer",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "DX",
+      "Bereich": "Abenteuer",
+      "Anzahl_Positionen": 4,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        },
+        {
+          "Name": "Läufer",
+          "Einweisung_erforderlich": true
+        },
+        {
+          "Name": "CCTV",
+          "Einweisung_erforderlich": true
+        },
+        {
+          "Name": "Gruppierer",
+          "Einweisung_erforderlich": false
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Kanu",
+      "Bereich": "Abenteuer",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "TempelX",
+      "Bereich": "Pharao",
+      "Anzahl_Positionen": 3,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        },
+        {
+          "Name": "Läufer",
+          "Einweisung_erforderlich": true
+        },
+        {
+          "Name": "CCTV",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Pyramide",
+      "Bereich": "Pharao",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "WüstenX",
+      "Bereich": "Pharao",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "FIT",
+      "Bereich": "Mythica",
+      "Anzahl_Positionen": 1,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    },
+    {
+      "Name": "Maximus",
+      "Bereich": "Mythica",
+      "Anzahl_Positionen": 5,
+      "Positionen": [
+        {
+          "Name": "Pult",
+          "Einweisung_erforderlich": true
+        },
+        {
+          "Name": "Läufer_1",
+          "Einweisung_erforderlich": true
+        },
+        {
+          "Name": "Läufer_2",
+          "Einweisung_erforderlich": true
+        },
+        {
+          "Name": "CCTV",
+          "Einweisung_erforderlich": true
+        },
+        {
+          "Name": "Einlass",
+          "Einweisung_erforderlich": false
+        }
+      ],
+      "Kann_geschlossen_werden": false,
+      "Trainings_erlaubt": true
+    }
+  ]
+}
